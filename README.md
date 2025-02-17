@@ -1,8 +1,8 @@
-# AQI & WQI Dashboard 🌍💧
+# AirWave 🌍
 
 A modern, real-time Air Quality Index (AQI) and Water Quality Index (WQI) dashboard built with React, TypeScript, and Tailwind CSS. This application allows users to search for locations worldwide and view their air and water quality metrics in an intuitive and visually appealing interface.
 
-![Dashboard Preview](https://images.unsplash.com/photo-1611273426858-450d8e3c9fce?auto=format&fit=crop&q=80&w=2000)
+![Dashboard Preview](https://i.imgur.com/MsA4zc9.png)
 
 ## Features ✨
 
@@ -64,16 +64,23 @@ The application uses the following environment variables:
 - Responsive cards with dynamic color coding
 - Interactive search with autocomplete suggestions
 
+## Screenshots 🌟
+Below are some screenshots showcasing the application:
+
+![London](https://i.imgur.com/nzmosdE.png)
+![New Delhi](https://i.imgur.com/HGBAP7j.png)
+![Tokyo](https://i.imgur.com/3hjrsNw.png)
+
+
 ## Contributing 🤝
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License 📄
+## License 📝
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments 🙏
+## Acknowledgments 🌱
 
 - OpenWeatherMap for providing the API
-- Unsplash for the beautiful imagery
-- The React and TypeScript communities for excellent documentation and support
+- The React and TypeScript communities for excellent documentation and support.
