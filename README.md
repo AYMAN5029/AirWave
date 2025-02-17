@@ -4,13 +4,16 @@ A modern, real-time Air Quality Index (AQI) and Water Quality Index (WQI) dashbo
 
 ![Dashboard Preview](https://i.imgur.com/MsA4zc9.png)
 
+## Demo 🔗
+https://airwave-app-deploy.netlify.app/
+
 ## Features ✨
 
 - **Location Search**: Search for any location worldwide using the OpenWeatherMap Geocoding API
 - **Real-time AQI Data**: Fetch current air quality data using OpenWeatherMap Air Pollution API
 - **Simulated WQI Data**: View water quality metrics (for demonstration purposes)
 - **Dark/Light Mode**: Toggle between dark and light themes for comfortable viewing
-- **Responsive Design**: Fully responsive interface that works seamlessly across all devices
+- **Responsive Design**: A fully responsive interface that works seamlessly across all devices
 - **Interactive UI**: Smooth animations and transitions for a polished user experience
 - **Quality Indicators**: Visual indicators for both air and water quality levels
 
@@ -25,7 +28,10 @@ A modern, real-time Air Quality Index (AQI) and Water Quality Index (WQI) dashbo
 
 ## Getting Started 🚀
 
-1. Clone the repository
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AYMAN5029/AirWave.git
+   ```
 2. Install dependencies:
    ```bash
    npm install
@@ -61,7 +67,7 @@ The application uses the following environment variables:
 - Smooth transitions between themes
 - Loading states with animated indicators
 - Error handling with user-friendly messages
-- Responsive cards with dynamic color coding
+- Responsive cards with dynamic colour coding
 - Interactive search with autocomplete suggestions
 
 ## Screenshots 🌟
